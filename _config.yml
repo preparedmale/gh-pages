@@ -7,3 +7,23 @@ theme: minimal-mistakes-jekyll
 
 markdown: kramdown
 
+# Site Author
+author:
+  name: "당신의 이름"
+  avatar: "/assets/images/profile.jpg" # 프로필 이미지 경로
+  bio: "이곳에 짧은 소개를 작성하세요."
+  location: "도시, 국가"
+  email: "your-email@example.com"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/your-username"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/your-username/"
+    - label: "Twitter"
+      url: "https://twitter.com/your-username"
+
+# Sidebar
+sidebar:
+  - title: "About"
+    image: "/assets/images/profile.jpg" # 프로필 이미지 경로
+    text: "이곳에 짧은 소개를 작성하세요."
