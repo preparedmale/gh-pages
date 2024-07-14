@@ -1,6 +1,6 @@
 title: My GitHub Page
 description: A simple GitHub Pages site
-baseurl: "" # 프로젝트가 루트에 있을 경우
+baseurl: "/gh-pages/" # 프로젝트가 루트에 있을 경우
 url: "https://preparedmale.github.io" # 사이트의 기본 URL
 
 theme: minima
